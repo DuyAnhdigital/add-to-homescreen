@@ -2,8 +2,6 @@
 
 # Add to Homescreen call out
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f9952dbae2744cf287de203057c34b20)](https://app.codacy.com/manual/duyanhdigital/add-to-homescreen?utm_source=github.com&utm_medium=referral&utm_content=DuyAnhdigital/add-to-homescreen&utm_campaign=Badge_Grade_Dashboard)
-
 Script for mobile devices, it automatically shows an overlaying message encouraging to add the web app to the homescreen. Compatible with iOS 6+ and Chrome for Android (soon WinPhone).
 
 ## Installation
